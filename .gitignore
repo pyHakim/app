@@ -6,4 +6,6 @@ __pycache__/
 *.py[cod]
 
 # Ignorer les fichiers spécifiques à Mac
-.DS_Store
+.DS_Stor
+
+test.ipynbe

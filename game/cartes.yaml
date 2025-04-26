@@ -1,0 +1,48 @@
+cartes:
+  - nom: Archer
+    image_path: assets/archer.png
+    description: "Attaque à distance : peut éliminer une carte à l'autre bout du plateau."
+    pv: 8
+    attaque: 5
+    defense: 3
+    influence: 2
+
+  - nom: Soldat
+    image_path: assets/soldat.png
+    description: "Force brute : gagne un bonus d'influence lorsqu'il est révélé sans être éliminé."
+    pv: 12
+    attaque: 6
+    defense: 5
+    influence: 1
+
+  - nom: Espion
+    image_path: assets/espion.png
+    description: "Information secrète : peut regarder une carte adverse face cachée."
+    pv: 7
+    attaque: 3
+    defense: 4
+    influence: 3
+
+  - nom: Héritier
+    image_path: assets/heritier.png
+    description: "Succession : accumule de l'influence supplémentaire chaque tour s'il reste caché."
+    pv: 10
+    attaque: 2
+    defense: 6
+    influence: 4
+
+  - nom: Changeforme
+    image_path: assets/changeforme.png
+    description: "Métamorphose : échange sa position avec une autre carte au moment de la révélation."
+    pv: 9
+    attaque: 4
+    defense: 4
+    influence: 2
+
+  - nom: Seigneur
+    image_path: assets/seigneur.png
+    description: "Autorité royale : gagne de l'influence bonus en fonction du nombre d'alliés visibles."
+    pv: 14
+    attaque: 5
+    defense: 6
+    influence: 5

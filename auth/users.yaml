@@ -1,0 +1,10 @@
+users:
+  - username: Hakim
+    password: "$2b$12$CwPnPPyERlLslfy7IprSoOrv6Zs.S/SfQZ2t5yXeFhRbnYN0CBoRG"
+  - username: Vanessa
+    password: "$2b$12$FTc2gAuT2hSsILab1uvntu76wUWPrp/ZzWeywatsTW8yuoKaFDGJ6"
+  - username: Krokmou
+    password: "$2b$12$Lh5SFmTheOvk0qfIAYzNBeACKhF0EAq9dNG.0e5bTjoP7dKejcngi"
+  - username: Blue
+    password: "$2b$12$B7MqW8XYW7q1gAB.Rky9C.ZwlZdc/Ed6w2txMQlUwdq8zCosljWMi"
+
