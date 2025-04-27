@@ -1,5 +1,5 @@
-# Ignorer l'environnement virtuel
-env-env/
+i# Ignorer l'environnement virtuel
+env-app/
 
 # Ignorer les fichiers de cache Python
 __pycache__/
