@@ -18,7 +18,7 @@ def afficher_login():
             st.success(f"Bienvenue {username} !")
             st.session_state.logged_in = True
             st.session_state.joueur = username
-            #st.experimental_rerun()
+
             st.rerun()
         else:
             st.error("Identifiants incorrects. Réessayez.")
