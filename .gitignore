@@ -1,11 +1,29 @@
-i# Ignorer l'environnement virtuel
-env-app/
+# Ignorer l'environnement virtuel
+env-app/
+.venv/
+venv/
 
 # Ignorer les fichiers de cache Python
 __pycache__/
 *.py[cod]
+*.so
 
-# Ignorer les fichiers spécifiques à Mac
-.DS_Stor
+# Ignorer les fichiers de logs ou bases de données
+*.log
+*.sqlite3
 
-test.ipynbe
+# Ignorer les fichiers spécifiques à macOS
+.DS_Store
+
+# Ignorer les fichiers temporaires d'éditeurs (ex: VS Code, Vim, etc.)
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignorer les fichiers de test
+test*
+
+# (Optionnel) Ignorer les fichiers de Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
